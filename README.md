@@ -3,8 +3,9 @@
 
 This project has been created for you to practice unit testing using Pytest on a Flask project (pytest-flask). The source code contains a conversion tool that will convert numbers to different bases (binary, decimal and hexadecimal). You can use it to develop a set of scenarios needed to test all of the source code. Note that the suggested solutions are available in different branches of the directory structure.
 ## Prerequisites
-- Install Python 3: Python 3 download
-- Install Git: Git download
+- Install Python 3: [Python 3 download](https://www.python.org/downloads/)
+- Install git: [Git download](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+
 ## Installation
 1. Download the Project to Your Local Directory:
 ```shell
