@@ -28,6 +28,6 @@ pip install -r requirements.txt
 ## Solutions
 Suggested solution for unit testing using pytest-flask:
 ```
-git checkout tests
+git checkout pytest-test
 pytest -v tests/
 ```
